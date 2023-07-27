@@ -1,0 +1,19 @@
+
+2) tags/TAG/README.md
+2) languages/LANGUAGE/README.md
+3) как удалять ненайденные
+даже если и удалять то надо делать это сначала через автоматическое создание где-то backup. копировать куда=то и только потом удалять
+4) gh-pages пока не забыл тк самое удобное по верстке и js можно прикрутить
+subfolders
+7) scripts
+Makefile, make.command туда же ?
+cleanup.py
+create.py - создание gists из folders
+----
+12) git-smartfolder
+git-smartfolder
+github-smartfolder
+github-mac-smartfolder не нужно тк только mac
+macos
+---
+gh_pages
